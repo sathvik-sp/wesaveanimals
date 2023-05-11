@@ -1,0 +1,1164 @@
+.donetion-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-donetion {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(19, 136, 8, 1);
+}
+.donetion-frame174 {
+  gap: 40px;
+  display: flex;
+  padding: 100px 0 100px 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/57bf930b-53fd-4493-9350-2dc0c645ee8f-epyi-1500w.undefined");
+}
+.donetion-image1587472542667logo3 {
+  width: 200px;
+  height: 200px;
+}
+.donetion-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-donationtab {
+  height: 948px;
+  display: flex;
+  padding: 20px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.donetion-frame21 {
+  gap: 60px;
+  display: flex;
+  padding: 15px 50px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+}
+.donetion-donationtab1 {
+  width: 220px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 25px;
+  flex-direction: column;
+}
+.donetion-frame17 {
+  height: var(--dl-size-size-xlarge);
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-end;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: url("public/playground_assets/da25188f-f760-41de-94ce-5aa6fdbc377b-5a0m-300w.undefined");
+}
+.donetion-frame14 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text05 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame15 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text07 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame19 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.donetion-text09 {
+  color: rgba(188, 136, 136, 1);
+  width: 180px;
+  height: auto;
+  font-size: 8px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame20button {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 153, 51, 1);
+}
+.donetion-text14 {
+  color: rgba(255, 255, 255, 1);
+  width: 53px;
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-donationtab11 {
+  width: 220px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 25px;
+  flex-direction: column;
+}
+.donetion-frame171 {
+  height: var(--dl-size-size-xlarge);
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: url("public/playground_assets/2e052a7c-c32a-4b6e-9677-846dcfaf124b-xmn-300w.undefined");
+}
+.donetion-frame141 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text16 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame151 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text18 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame191 {
+  gap: 10px;
+  display: flex;
+  padding: 15px 10px;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.donetion-text20 {
+  color: rgba(188, 136, 136, 1);
+  width: 180px;
+  height: auto;
+  font-size: 8px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame20button1 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 153, 51, 1);
+}
+.donetion-text25 {
+  color: rgba(255, 255, 255, 1);
+  width: 53px;
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-donationtab12 {
+  width: 220px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 25px;
+  flex-direction: column;
+}
+.donetion-frame172 {
+  height: var(--dl-size-size-xlarge);
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-end;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: url("public/playground_assets/4e8daf35-9831-4e4b-b895-d83140b49461-air-300w.undefined");
+}
+.donetion-frame142 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text27 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame152 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text29 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame192 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.donetion-text31 {
+  color: rgba(188, 136, 136, 1);
+  width: 200px;
+  height: auto;
+  font-size: 8px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame20button2 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 153, 51, 1);
+}
+.donetion-text33 {
+  color: rgba(255, 255, 255, 1);
+  width: 53px;
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-donationtab13 {
+  width: 220px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 25px;
+  flex-direction: column;
+}
+.donetion-frame173 {
+  height: var(--dl-size-size-xlarge);
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: url("public/playground_assets/079c0599-d81c-4014-adfd-4bea134678a6-nz7p-300w.undefined");
+}
+.donetion-frame143 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text35 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame153 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text37 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame193 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.donetion-text39 {
+  color: rgba(188, 136, 136, 1);
+  width: 180px;
+  height: auto;
+  font-size: 8px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame20button3 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 153, 51, 1);
+}
+.donetion-text41 {
+  color: rgba(255, 255, 255, 1);
+  width: 53px;
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-donationtab14 {
+  width: 220px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 25px;
+  flex-direction: column;
+}
+.donetion-frame174 {
+  height: var(--dl-size-size-xlarge);
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: url("public/playground_assets/80dca356-ec06-432d-bb77-4c4840f54e92-pnbc-300w.undefined");
+}
+.donetion-frame144 {
+  gap: 10px;
+  height: 32px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.donetion-text43 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame154 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text45 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame194 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.donetion-text47 {
+  color: rgba(188, 136, 136, 1);
+  width: 180px;
+  height: auto;
+  font-size: 8px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame20button4 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 153, 51, 1);
+}
+.donetion-text52 {
+  color: rgba(255, 255, 255, 1);
+  width: 53px;
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame175 {
+  gap: 60px;
+  display: flex;
+  padding: 15px 150px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+}
+.donetion-donationtab15 {
+  width: 240px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 25px;
+  flex-direction: column;
+  justify-content: center;
+}
+.donetion-frame175 {
+  height: var(--dl-size-size-xlarge);
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: url("public/playground_assets/bb4ff04f-53b4-4400-b3a6-f375f17f55d3-a31f-300w.undefined");
+}
+.donetion-frame145 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text54 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame155 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text56 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame195 {
+  gap: 10px;
+  display: flex;
+  padding: 15px 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.donetion-text58 {
+  color: rgba(188, 136, 136, 1);
+  width: 180px;
+  height: auto;
+  font-size: 8px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame20button5 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 153, 51, 1);
+}
+.donetion-text60 {
+  color: rgba(255, 255, 255, 1);
+  width: 53px;
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-donationtab16 {
+  width: 240px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 25px;
+  flex-direction: column;
+  justify-content: center;
+}
+.donetion-frame176 {
+  height: var(--dl-size-size-xlarge);
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: url("public/playground_assets/6d57439b-2729-4fbc-aac6-fcafe663ebc3-qz1p-300w.undefined");
+}
+.donetion-frame146 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text62 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame156 {
+  gap: 10px;
+  width: 33px;
+  height: 32px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.donetion-text64 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame196 {
+  gap: 10px;
+  display: flex;
+  padding: 15px 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.donetion-text66 {
+  color: rgba(188, 136, 136, 1);
+  width: 180px;
+  height: auto;
+  font-size: 8px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame20button6 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 153, 51, 1);
+}
+.donetion-text68 {
+  color: rgba(255, 255, 255, 1);
+  width: 53px;
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-donationtab17 {
+  width: 240px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 25px;
+  flex-direction: column;
+  justify-content: center;
+}
+.donetion-frame177 {
+  height: var(--dl-size-size-xlarge);
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: url("public/playground_assets/28dc61ad-3c82-45ad-8a92-1a517c13a9d4-vy1f-300w.undefined");
+}
+.donetion-frame147 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text70 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame157 {
+  gap: 10px;
+  width: 33px;
+  height: 32px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.donetion-text72 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame197 {
+  gap: 10px;
+  display: flex;
+  padding: 5px 10px;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.donetion-text74 {
+  color: rgba(188, 136, 136, 1);
+  width: 180px;
+  height: auto;
+  font-size: 8px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame20button7 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 153, 51, 1);
+}
+.donetion-text76 {
+  color: rgba(255, 255, 255, 1);
+  width: 53px;
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-donationtab18 {
+  width: 240px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 25px;
+  flex-direction: column;
+}
+.donetion-frame178 {
+  height: var(--dl-size-size-xlarge);
+  display: flex;
+  padding: 0 10px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: url("public/playground_assets/4e8089b6-7efc-4876-87a2-15b446837130-9vzo-300w.undefined");
+}
+.donetion-frame148 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text78 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame158 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-direction: column;
+}
+.donetion-text80 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame198 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.donetion-text82 {
+  color: rgba(188, 136, 136, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 8px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame20button8 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 153, 51, 1);
+}
+.donetion-text84 {
+  color: rgba(255, 255, 255, 1);
+  width: 53px;
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-bottom {
+  gap: 3px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: rgba(0, 0, 0, 1);
+}
+.donetion-frame127 {
+  gap: -23px;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.donetion-text86 {
+  color: rgba(251, 115, 16, 1);
+  width: 110px;
+  height: auto;
+  font-size: 110px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Times New Roman;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-text87 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 110px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Times New Roman;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-text88 {
+  color: rgba(74, 244, 15, 1);
+  height: auto;
+  font-size: 110px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Times New Roman;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-line2 {
+  width: 1030px;
+  height: 1px;
+}
+.donetion-frame130 {
+  gap: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.donetion-frame129 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-items: flex-start;
+}
+.donetion-text89 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 42px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Times New Roman;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.donetion-frame128 {
+  gap: 20px;
+  display: flex;
+  padding: 10px 20px;
+  align-items: center;
+  justify-content: center;
+}
+.donetion-instagrambutton {
+  width: 40px;
+  height: 41px;
+}
+.donetion-facebooklogo2019button {
+  width: 40px;
+  height: 39px;
+}
+.donetion-youtubebutton {
+  width: 42px;
+  height: 41px;
+}
+.donetion-googlebutton {
+  width: 40px;
+  height: 40px;
+}
+.donetion-frame131 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-items: flex-start;
+}
+.donetion-text91 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Times New Roman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
